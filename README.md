@@ -1,6 +1,6 @@
-# Frontend-Oriented-Foundation-Knowledge
+# Frontend-Foundation-Knowledge
 
-#### Inspired by - [테오의 프론트엔드](https://yozm.wishket.com/magazine/detail/1294/)
+#### Inspired by [테오의 프론트엔드](https://yozm.wishket.com/magazine/detail/1294/)
 
 ![Frontend](./image/image001.png)
 
