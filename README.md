@@ -1,4 +1,4 @@
-# Web-Oriented-Foundation-Knowledge
+# Frontend-Oriented-Foundation-Knowledge
 
 #### Inspired by - [테오의 프론트엔드](https://yozm.wishket.com/magazine/detail/1294/)
 
