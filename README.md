@@ -16,14 +16,15 @@
    - Task queue
    - Reflow Repaint
 - Authority
-   - jwt
-   - cookie
-   - session
+   - Token
+      - jwt
+   - Cookie
+   - Session
 - Design Pattern
    - OOP
    - FP
 - Network
    - Lazy loading
-   - Async
 - Regexp
+- ETC
 -->
