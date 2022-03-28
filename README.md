@@ -1,20 +1,28 @@
-# Foundation-Knowledge
+# Frontend-Foundation
 
 <!--
-1. Git
-2. Regexp
-3. Authority
+- Async
+   - Callback
+   - Promise
+   - Async Await
+- Framework
+   - React
+- State manager
+   - Redux
+- Browser
+   - Event loop
+   - Call stack
+   - Task queue
+   - Reflow Repaint
+- Authority
    - jwt
    - cookie
    - session
-4. Design Pattern
+- Design Pattern
    - OOP
    - FP
-5. Network
+- Network
    - Lazy loading
    - Async
-6. Framework
-   - React
-7. Browser
-   - Event loop
+- Regexp
 -->
